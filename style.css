@@ -1,0 +1,300 @@
+#header {
+    background-color: white;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color:white;
+}
+
+#big{
+    width:27%;
+}
+
+
+#mynavbar-content navbar-nav {
+    width: 100%;
+}
+#mynavbar-content li {
+    background-color: RGB(239,213,97);
+}
+
+#mynavbar-content ul li a {
+    display: block;
+    border-right: 1px solid RGB(49,49,50);
+    color: RGB(49,49,50);
+    font-family: "Baskerville", sans-serif; font-weight: 700;
+}
+
+#mynavbar-content ul li:first-child a {
+    border-left: 1px solid RGB(239,213,97);
+}
+
+.navbar-default .navbar-collapse .navbar-nav .active a {
+	background-color: white ;
+}
+
+.navbar-default .navbar-collapse .navbar-nav a:hover {
+	background-color: white ;
+}
+
+.navbar-default .navbar-collapse .navbar-nav a:focus {
+	background-color: white;
+}
+.navbar {
+    background-color: RGB(239,213,97);
+}
+
+.navbar-header {
+    color: RGB(49,49,50);
+    font-family: "Baskerville", sans-serif; font-weight: 700;
+    font-weight: bold;
+}
+
+.pagefooter {
+    margin-top: 1em;
+    margin-bottom: 0;
+    height: 110px;
+    background-color:RGB(239,213,97);
+    font-family: "Baskerville", sans-serif; font-weight: 700;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+.fa:hover {
+    opacity: 0.7;
+    color:white;
+}
+
+.fa-facebook {
+    background: RGB(49,49,50);
+    color: white;
+    float:left;
+    margin-left:5%;
+}
+    
+.fa-instagram {
+    background: RGB(49,49,50);
+    color: white;
+    float:left;
+    margin-left: 4%;
+}
+
+h4{
+color:RGB(49,49,50);
+}
+
+
+#mission{
+    height: 80%;
+    width:40%;
+    background-color:RGB(239,213,97);
+    margin-top: 5%;
+    float:left;
+    margin-left: 3%;
+    border:2px solid RGB(49,49,50);
+    padding: 1em;
+    font-family: "Baskerville", sans-serif; font-weight: 400;;
+   }
+
+#missionhead{
+    color:RGB(49,49,50); 
+    text-align:center;
+    font-family: "Baskerville", sans-serif; font-weight: 550;
+    
+}
+.missiontext{
+    color:RGB(49,49,50);
+    font-family: "Baskerville", sans-serif; font-weight: 700;
+}
+
+h3{
+    color: RGB(49,49,50);
+    font-family: "Baskerville", sans-serif; font-weight: 300;
+}
+
+
+#donation{
+    height:50%;
+    width:40%;
+    background-color: RGB(239,213,97);
+    float: right;
+    margin-top: 4%;
+    margin-right:3%;
+    font-family: "Baskerville", sans-serif; font-weight: 300;
+    padding: 1em;
+}
+#donationhead{
+    font-family:"Baskerville", sans-serif; font-weight: 500;
+    color:RGB(49,49,50);;
+    text-align:center;
+}
+
+#fact{
+    color: RGB(49,49,50);
+    height:35%;
+    width:40%;
+    background-color:RGB(239,213,97);
+    float:right;
+    margin-top:2%;
+    margin-right: 3%;
+    font-family: "Baskerville", sans-serif; font-weight: 300;
+    padding: 1em;
+}
+
+#facthead{
+    text-align:center;
+    font-family: "Baskerville", sans-serif; font-weight: 500;
+    color:RGB(49,49,50);
+}
+
+#donationhead{
+    color:RGB(49,49,50);
+    font-family: "Baskerville", sans-serif; font-weight: 500;
+    text-align:center;
+    
+}
+
+#donation{
+    color:RGB(49,49,50); 
+}
+
+
+#donationtext{
+    color:RGB(49,49,50);
+    text-align:center;
+    font-size:1.2em;
+    overflow:auto;
+    font-weight: 300;
+}
+
+}
+
+
+#aboutinfo{
+    font-family: "Baskerville", sans-serif; font-weight: 500;
+    font-size: 1.2em;
+    margin-bottom: 1em;
+     background-color: RGB(239,213,97);
+    padding: 1em;
+}
+
+#cooking {
+    font-family: "Baskerville", sans-serif; font-weight: 600;
+    font-weight: bold;
+    font-size: 2em;
+    color: RGB(49,49,50);
+    display: block;
+}
+
+#aboutpic {
+    width: 40%;
+    height: auto;
+}
+
+#takingpart{
+    font-family:  "Baskerville", sans-serif; font-weight: 600;
+    font-size:23px;
+    color:RGB(49,49,50);
+}
+
+#taking {
+    font-family:  "Baskerville", sans-serif; font-weight: 600;
+    color:RGB(49,49,50);
+}
+
+
+
+#perspectiveinfo{
+    background-color:RGB(239,213,97);
+    color: RGB(49,49,50);
+    padding: 2em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    font-size: 1.2em;
+    font-family: "Baskerville", sans-serif; font-weight: 500;
+}
+
+#aboutuspic{
+    margin: 1em;
+   
+}
+
+#moremission{
+    background-color:white;
+    border: 2px solid RGB(49,49,50);
+    padding: 1em;
+    padding-left: 2em;
+    margin: 1em;
+    font-family: "Baskerville", sans-serif; font-weight: 550;
+
+}
+
+#moremissiontext {
+    color:RGB(49,49,50);
+    font-size: 3em;
+    display: block;
+    margin-bottom: .2em;
+    font-family: "Baskerville", sans-serif; font-weight: 500;
+}
+
+#recipe{
+    height:90%;
+    width:90%;
+    margin-left:5%;
+    background-color:;
+    margin-bottom:5%;
+    font-family: "Baskerville", sans-serif; font-weight: 500;
+}
+
+#recipehead{
+    color:RGB(49,49,50);
+    font-family: "Baskerville", sans-serif; font-weight: 500;
+    text-align: center;
+}
+
+#howto {
+    text-align: center;
+}
+
+table,th,td{
+    border:1px solid RGB(239,213,97);
+    text-align:center;
+    padding:15px;
+    color: RGB(49,49,50);
+    
+}
+
+th{
+    width:4%;
+    color:#RGB(49,49,50);
+}
+
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 2px solid RGB(49,49,50); 
+    border-radius: 4px; 
+    margin-top: 6px; 
+    margin-bottom: 16px; }
+    
+     input[type=submit] {
+    background-color: #RGB(49,49,50);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color:#RGB(49,49,50) ;
+}
